@@ -1,6 +1,8 @@
-# firstapp
+# Simple Calculator
 
-A new Flutter project.
+This is a simple calculator which I created to implement my flutter basics.
+![Screenshot_20210613_174334_com example firstapp](https://user-images.githubusercontent.com/84427102/121807182-be893a80-cc70-11eb-9353-4a19f3f785fd.jpg)
+
 
 ## Getting Started
 
